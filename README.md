@@ -1,3 +1,3 @@
 # README
 
-1. Complete Ruby on Rails Developer
+1. First Test repo on the Complete Ruby on Rails Developer by Andrew Stevenson
